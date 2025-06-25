@@ -3,7 +3,7 @@ import { Helmet } from 'react-helmet';
 import { AiOutlineHeart } from "react-icons/ai";
 import { useParams } from 'react-router-dom';
 import Productsitem from '../../../../Sheard/ProductsItem';
-
+// Product js
 const Products = () => {
     const [products, setProducts] = useState([]);
     const [categories, setCategories] = useState([]);
