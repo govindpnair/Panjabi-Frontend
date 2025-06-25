@@ -1,3 +1,7 @@
+# 🛸 Hazrat Ali
+
+# 🚀 Programmer || Software Engineering
+
 # 🌈 Rainbow Collection
 
 A festive full-stack **e-commerce website** designed to help users shop for **clothing, accessories, and gifts during Eid**. Built with modern technologies and a focus on clean UI, responsive design, and seamless shopping experience.
